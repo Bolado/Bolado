@@ -1,6 +1,6 @@
 # Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>27 years old ʙʀ-ɪᴛ graduated in Information Systems, seeking knowledge and everything else that comes with it. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="30px">
+<g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>27 years old <span class="flag-br"></span><span class="flag-it"></span><span class="flag-be"></span> graduated in Information Systems, seeking knowledge and everything else that comes with it. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="30px">
 <br><br>
 Since 2015 being a full-stack developer, making game prototypes and art as a hobbie!
 <br>
