@@ -15,9 +15,11 @@ I love my split keyboard :sparkling_heart:
 ### Favorite Technologies:
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
 ![HTMX](https://img.shields.io/badge/-HTMX-000?&logo=htmx)
+![AlpineJS](https://img.shields.io/badge/-Alpine.js-000?&logo=alpinedotjs)
 <br>
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
 ![Unreal](https://img.shields.io/badge/-Unreal%20Engine-000?&logo=UnrealEngine)
+![Threejs](https://img.shields.io/badge/-Three.js-000?&logo=threedotjs)
 <br>
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 <br>
