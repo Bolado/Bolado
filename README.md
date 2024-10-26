@@ -2,7 +2,7 @@
 
 <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">My name is Igor 👨‍💻</g-emoji>
 
-I'm 28 years old 🇧🇷🇮🇹🇧🇪 graduated in Information Systems and currently doing a Bachelor in Computer Science, seeking knowledge and everything else that comes with it. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="30px">
+I'm 28 years old 🇧🇷🇮🇹🇧🇪 graduated in Information Systems and currently doing a Bachelor in Computer Science, always seeking knowledge and everything else that comes with it. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="30px">
 
 Since 2015 being a full-stack developer, making game prototypes and art as a hobbie!
 
