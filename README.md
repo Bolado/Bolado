@@ -1,3 +1,5 @@
+<div align="center">
+
 # Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">My name is Igor 👨‍💻</g-emoji>
@@ -50,3 +52,5 @@ I love my split keyboards and 3D printer!
     <td><a href="#"><img src="https://img.shields.io/badge/@bolado.dev-5865F2?&logo=Discord&logoColor=white" alt="Discord"></a> <a href="https://bolado.dev"><img src="https://img.shields.io/badge/My%20Landing%20Page-000?logo=nextdotjs&logoColor=fff" alt="Website"></a></td>
   </tr>
 </table>
+
+</div>
